@@ -1,5 +1,6 @@
 import type { Metadata } from "next";
 import "./globals.css";
+import { GoogleTagManager } from "@next/third-parties/google";
 
 import { Poppins as FontSans } from "next/font/google";
 
@@ -51,6 +52,7 @@ export default function RootLayout({
 }>) {
   return (
     <html lang="en" suppressHydrationWarning>
+      <GoogleTagManager gtmId="G-LV0HKWZ90B" />
       <head />
       <body
         className={cn(
