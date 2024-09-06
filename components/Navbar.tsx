@@ -12,7 +12,7 @@ const Navbar = () => {
             prefetch={false}
           >
             <CrossIcon className="w-6 h-6" />
-            <h1>Dr. Abhay Yadav, MS</h1>
+            <span>Dr. Abhay Yadav, MS</span>
           </Link>
           <nav className="flex gap-4 items-center">
             <Link href="/" className="hover:underline" prefetch={false}>
