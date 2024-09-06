@@ -1,7 +1,16 @@
 import Image from "next/image";
+import Head from "next/head";
 export default function HomePage() {
   return (
     <div className="flex flex-col min-h-screen">
+      <Head>
+        <title>Canonical Tag Example</title>
+        <link
+          rel="canonical"
+          href="https://www.abhayspine.com/blogs"
+          key="canonical"
+        />
+      </Head>
       <main className="flex-1">
         <section className="w-full pt-4 lg:py-6">
           <div className="px-4 md:px-6 space-y-10 xl:space-y-16">

@@ -20,14 +20,7 @@ export const metadata: Metadata = {
     template: "%s | Dr. Abhay Yadav, MS - Orthopaedic & Spine Surgeon",
   },
   description:
-    "Dr. Abhay Yadav, MS - Senior Consultant Orthopaedic & Spine Surgeon with expertise in Minimally Invasive Spine Surgery, Arthroplasty, Trauma Care. Serving Kathmandu and Nepal.",
-  keywords: [
-    "Senior Consultant Orthopaedic Surgeon",
-    "Orthopaedic Spine Surgeon",
-    "Senior Spine Specialist",
-    "Best Orthopaedic Surgeon",
-    "Top Orthopaedic Surgeon in kathmandu, Nepal",
-  ],
+    "Dr. Abhay Yadav, MS - Senior Consultant Orthopaedic & Spine Surgeon with expertise in Minimally Invasive Spine Surgery, Arthroplasty, Trauma Care, Kathmandu.",
   openGraph: {
     title: "Dr. Abhay Yadav, MS - Orthopaedic & Spine Surgeon",
     description:
