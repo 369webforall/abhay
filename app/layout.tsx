@@ -37,7 +37,7 @@ export const metadata: Metadata = {
     locale: "en_US",
     images: [
       {
-        url: "/hero.jpg",
+        url: "/Dr-Abhay-Yadav-2.jpg",
         width: 800,
         height: 600,
       },
